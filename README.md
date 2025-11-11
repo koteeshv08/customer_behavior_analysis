@@ -19,6 +19,8 @@ End-to-end analytics pipeline turning raw shopping transactions into business in
 
 ## 🚀 Pipeline
 
+![Flow: CSV → Python (clean/engineer) → PostgreSQL (raw → core → mart) → Power BI (DAX + visuals)](https://github.com/koteeshv08/customer_behavior_analysis/blob/main/docs/flowchart.png)
+
 
 1. Raw Data → Python (Jupyter)
 
