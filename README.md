@@ -13,8 +13,9 @@ End-to-end analytics pipeline turning raw shopping transactions into business in
 
 + PostgreSQL: persistent storage, SQL for KPIs and slice-and-dice analysis
 
-+ Power BI: interactive dashboard for storytelling and decision support
-
++ Power BI: [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTAzMGJhNGMtYjMxZi00ZWRiLTlmN2EtOWU5NDAzODVlM2QyIiwidCI6IjEzZTNiMTg2LWM0NDYtNGFhYi05YzZkLTlhYjliYjc2ODE2YyIsImMiOjh9)
+ for storytelling and decision support
+  
 ----------------------------------------------------------------------------------
 
 ## 🚀 Pipeline
